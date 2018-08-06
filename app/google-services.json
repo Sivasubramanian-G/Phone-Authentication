@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "123314337053",
+    "firebase_url": "https://phauth-4313a.firebaseio.com",
+    "project_id": "phauth-4313a",
+    "storage_bucket": "phauth-4313a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123314337053:android:17dfd898f45bad4f",
+        "android_client_info": {
+          "package_name": "com.example.karthi.phauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123314337053-7q6ddacqsoju2itfkim0t6dofof8biif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karthi.phauth",
+            "certificate_hash": "ccd9cb995700b41a8e1af9ea65ada4731e5b0b89"
+          }
+        },
+        {
+          "client_id": "123314337053-5p4m0ku8u3dseckon12boh5cqi2qrhfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6N3Y2FMy_2I0Lg8lJKcBeBG6s4ZrZL2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123314337053-5p4m0ku8u3dseckon12boh5cqi2qrhfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
